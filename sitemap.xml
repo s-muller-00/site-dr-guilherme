@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Página inicial / home -->
+  <url>
+    <loc>https://drgcmuller.com.br/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Seção Sobre -->
+  <url>
+    <loc>https://drgcmuller.com.br/#sobre</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Seção Serviços -->
+  <url>
+    <loc>https://drgcmuller.com.br/#servicos</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Seção Depoimentos -->
+  <url>
+    <loc>https://drgcmuller.com.br/#depoimentos</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Seção Artigos -->
+  <url>
+    <loc>https://drgcmuller.com.br/#artigos</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artigo 1: Queda de cabelo -->
+  <url>
+    <loc>https://drgcmuller.com.br/artigos/queda-de-cabelo.html</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Artigo 2: Skincare com base científica -->
+  <url>
+    <loc>https://drgcmuller.com.br/artigos/skincare-com-base-cientifica.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Artigo 3: Autoestima é questão de saúde -->
+  <url>
+    <loc>https://drgcmuller.com.br/artigos/autoestima-questao-de-saude.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Seção Contato -->
+  <url>
+    <loc>https://drgcmuller.com.br/#contato</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Seção Localização -->
+  <url>
+    <loc>https://drgcmuller.com.br/#localizacao</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
