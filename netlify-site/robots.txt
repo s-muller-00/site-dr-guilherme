@@ -1,0 +1,35 @@
+# robots.txt — Dr. Guilherme Cerutti Müller
+# https://drgcmuller.com.br/
+
+# Política geral para todos os user-agents
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+Disallow: /*?utm_*
+Disallow: /search
+Disallow: /404
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Atraso padrão para crawlers
+Crawl-delay: 1
+
+# Taxa de requisições
+Request-rate: 1/1s
+
+# Sitemap
+Sitemap: https://drgcmuller.com.br/sitemap.xml
