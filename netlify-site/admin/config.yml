@@ -1,1 +1,24 @@
+backend:
+  name: github
+  repo: s-muller-00/site-dr-guilherme
+  branch: main
 
+media_folder: "assets"
+public_folder: "/assets"
+
+media_library:
+  name: uploadcare
+
+collections:
+  - name: "artigos"
+    label: "Artigos"
+    folder: "articles"
+    create: true
+    format: "markdown"
+    slug: "{{slug}}"
+
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Descrição", name: "description", widget: "string" }
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
