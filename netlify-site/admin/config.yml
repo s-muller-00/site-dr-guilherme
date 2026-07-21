@@ -1,23 +1,38 @@
+# CMS de conteúdo (Sveltia CMS) — editor amigável para os artigos.
+# Login: conta do GitHub, via o OAuth embutido do Netlify (ver README).
+
 backend:
-  name: git-gateway
+  name: github
+  repo: s-muller-00/site-dr-guilherme
   branch: main
 
-media_folder: "assets"
+# Onde as imagens enviadas pelo editor são salvas / servidas
+media_folder: "netlify-site/assets"
 public_folder: "/assets"
 
-media_library:
-  name: uploadcare
+# Idioma da interface
+locale: "pt"
 
 collections:
   - name: "artigos"
     label: "Artigos"
-    folder: "articles"
+    label_singular: "Artigo"
+    description: "Textos do blog. Preencha os campos e clique em Publicar."
+    folder: "netlify-site/artigos"
     create: true
-    format: "markdown"
+    extension: "md"
+    format: "frontmatter"
     slug: "{{slug}}"
-
+    preview_path: "artigos/{{slug}}.html"
+    sortable_fields: ["date", "title"]
     fields:
       - { label: "Título", name: "title", widget: "string" }
-      - { label: "Data", name: "date", widget: "datetime" }
-      - { label: "Descrição", name: "description", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "DD/MM/YYYY", time_format: false }
+      - label: "Categoria"
+        name: "category"
+        widget: "select"
+        options: ["Tricologia", "Estética facial", "Autoestima"]
+        default: "Tricologia"
+      - { label: "Autor", name: "author", widget: "string", default: "Dr. Guilherme Cerutti Müller" }
+      - { label: "Resumo (aparece no card e no topo do artigo)", name: "description", widget: "text" }
       - { label: "Conteúdo", name: "body", widget: "markdown" }

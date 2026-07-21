@@ -1,0 +1,14 @@
+{
+  "name": "site-dr-guilherme",
+  "version": "1.0.0",
+  "description": "Site institucional Dr. Guilherme Cerutti Müller — Eleventy + Sveltia CMS",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "markdown-it": "^14.1.0"
+  }
+}

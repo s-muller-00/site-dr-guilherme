@@ -6,7 +6,7 @@
    Coloque aqui o número real. Formato: 55 + DDD + número (só dígitos).
    Ex.: (51) 98765-4321  ->  '5551987654321'
    ----------------------------------------------------------------------- */
-const WHATSAPP_NUMBER = '5551989601177'; // (51) 99118-7716  <-- TROCAR-WHATSAPP
+const WHATSAPP_NUMBER = '5551989601177'; // (51) 9 8960-1177  <-- TROCAR-WHATSAPP
 
 function waLink(message){
   const base = 'https://wa.me/' + WHATSAPP_NUMBER;

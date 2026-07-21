@@ -6,18 +6,9 @@ author: "Dr. Guilherme Cerutti Müller"
 description: "Perder fios todos os dias faz parte do ciclo capilar. O que muda é a quantidade, o padrão e o tempo — e é aí que a avaliação faz diferença."
 ---
 
-# Queda de cabelo: quando é normal e quando investigar
+Quase todo mundo já se assustou ao ver fios no travesseiro, no ralo do chuveiro ou na escova. A boa notícia é que **perder cabelo faz parte do funcionamento normal do couro cabeludo**. O fio nasce, cresce por anos, descansa e cai para dar lugar a um novo. Em média, é esperado perder entre 50 e 100 fios por dia.
 
-Perder fios todos os dias faz parte do ciclo capilar. O que muda é a quantidade, o padrão e o tempo — e é aí que a avaliação faz diferença.
-
-**Dr. Guilherme Cerutti Müller**  
-Biomédico Esteta e Tricologista · CRBM 0015
-
----
-
-Quase todo mundo já se assustou ao ver fios no travesseiro, no ralo do chuveiro ou na escova. A boa notícia é que **perder cabelo faz parte do funcionamento normal do couro cabeludo**. O corpo faz uma "reciclagem" contínua dos fios, e na maioria das pessoas, essa queda é bem discreta e imperceptível.
-
-O ponto de atenção não é a queda em si, mas **mudanças no padrão**: uma queda que aumenta de repente, falhas que surgem, o couro cabeludo aparecendo mais ou o cabelo afinando progressivamente. Essas são as situações que valem a investigação.
+O ponto de atenção não é a queda em si, mas **mudanças no padrão**: uma queda que aumenta de repente, falhas que surgem, o couro cabeludo aparecendo mais ou o cabelo afinando ao longo dos meses.
 
 ## Quando provavelmente é normal
 
@@ -36,18 +27,8 @@ O ponto de atenção não é a queda em si, mas **mudanças no padrão**: uma qu
 
 ## O que uma avaliação capilar investiga
 
-Numa avaliação tricológica, o objetivo é entender a **causa** antes de propor qualquer tratamento. Isso costuma envolver a história clínica (alimentação, rotina, estresse, sono, uso de medicamentos), análise do couro cabeludo ao microscópio e às vezes exames mais específicos.
+Numa avaliação tricológica, o objetivo é entender a **causa** antes de propor qualquer tratamento. Isso costuma envolver a história clínica (alimentação, rotina, estresse, medicamentos, histórico familiar), o exame do couro cabeludo e, quando necessário, exames laboratoriais para checar fatores como ferro, tireoide e vitaminas.
 
 A partir daí é possível diferenciar situações muito distintas — como uma queda temporária por estresse de um padrão genético — que pedem condutas completamente diferentes.
 
----
-
-**Importante:** este conteúdo é educativo e não substitui uma avaliação individual. Cada caso é único, e o tratamento ideal depende de um diagnóstico feito por um profissional qualificado.
-
----
-
-## Quer uma avaliação para o seu caso?
-
-Cada pessoa é única. Agende uma conversa pelo WhatsApp e receba uma orientação feita para você — presencial em Novo Hamburgo ou online para todo o Brasil.
-
-**Contato:** (51) 99118-7716
+<div class="note"><strong>Importante:</strong> este conteúdo é educativo e não substitui uma avaliação individual. Cada caso é único, e o tratamento ideal depende de um diagnóstico feito por um profissional.</div>
