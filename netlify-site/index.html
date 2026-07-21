@@ -53,29 +53,40 @@
 
   <!-- Dados estruturados (Google entende quem você é, onde fica e como contatar) -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": ["MedicalBusiness", "HealthAndBeautyBusiness"],
-    "name": "Dr. Guilherme Cerutti Müller — Biomédico Esteta e Tricologista",
-    "description": "Biomédico esteta e tricologista em Novo Hamburgo/RS. Doutor em Biologia Celular e Molecular. Cuidado com base científica e resultados naturais.",
-    "medicalSpecialty": ["Dermatology", "PlasticSurgery"],
-    "telephone": "+5551989601177",
-    "priceRange": "$$",
-    "image": "https://drgcmuller.com.br/og-image.jpg",
-    "url": "https://drgcmuller.com.br/",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Av. Maurício Cardoso, 1890",
-      "addressLocality": "Novo Hamburgo",
-      "addressRegion": "RS",
-      "addressCountry": "BR"
-    },
-    "geo": { "@type": "GeoCoordinates", "latitude": -29.6783, "longitude": -51.1306 },
-    "areaServed": "Brasil",
-    "knowsAbout": ["Tricologia", "Estética facial", "Bioestimulador de colágeno", "Toxina botulínica", "Preenchimento facial", "LEDterapia capilar"],
-    "sameAs": ["https://instagram.com/drgcmuller", "https://facebook.com/SEU_PERFIL"]
-  }
-  </script>
+{
+  "@context": "https://schema.org",
+  "@type": ["MedicalBusiness", "HealthAndBeautyBusiness"],
+  "name": "Dr. Guilherme Cerutti Müller — Biomédico Esteta e Tricologista",
+  "description": "Biomédico esteta e tricologista em Novo Hamburgo/RS. Doutor em Biologia Celular e Molecular. Cuidado com base científica e resultados naturais.",
+  "telephone": "+5551989601177",
+  "priceRange": "$$",
+  "image": "https://drgcmuller.com.br/og-image.jpg",
+  "url": "https://drgcmuller.com.br/",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. Maurício Cardoso, 1890",
+    "addressLocality": "Novo Hamburgo",
+    "addressRegion": "RS",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -29.6783,
+    "longitude": -51.1306
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  ],
+  "areaServed": "Brasil",
+  "knowsAbout": ["Tricologia", "Estética facial", "Bioestimulador de colágeno", "Toxina botulínica", "Preenchimento facial", "LEDterapia capilar"],
+  "sameAs": ["https://instagram.com/drgcmuller"]
+}
+</script>
 
   <!-- Tipografia: serif elegante (títulos) + sans-serif (corpo) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -433,42 +444,6 @@
     .servicos,.depo,.sobre,.contato,.artigos{padding:72px 0}
   }
   </style>
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalBusiness",
-  "name": "Dr. Guilherme Cerutti Müller — Biomédico Esteta e Tricologista",
-  "description": "Biomédico Esteta e Tricologista em Novo Hamburgo/RS. Doutor em Biologia Celular e Molecular. Cuidado com base científica e resultados naturais para pele e cabelos.",
-  "url": "https://drgcmuller.com.br/",
-  "image": "https://drgcmuller.com.br/og-image.jpg",
-  "telephone": "+5551989601177",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "Av. Maurício Cardoso, 1890",
-    "addressLocality": "Novo Hamburgo",
-    "addressRegion": "RS",
-    "postalCode": "",
-    "addressCountry": "BR"
-  },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": -29.6783,
-    "longitude": -51.1306
-  },
-  "openingHoursSpecification": [
-    {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-      "opens": "09:00",
-      "closes": "18:00"
-    }
-  ],
-  "areaServed": "BR",
-  "sameAs": [
-    "https://instagram.com/drgcmuller"
-  ]
-}
-</script>
 </head>
 <body>
 
