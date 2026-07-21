@@ -1,9 +1,9 @@
 ---
-title: Autoestima é questão de saúde — e não de vaidade
-description: Cuidar da aparência tem impacto direto no bem-estar emocional. Tratar a pele e o cabelo é, antes de tudo, cuidar de como você se sente.
-author: Dr. Guilherme Cerutti Müller
+title: Autoestima é questão de saúde, e não de vaidade
 date: 2026-04-09
 category: Autoestima
+author: Dr. Guilherme Cerutti Müller
+description: Cuidar da aparência tem impacto direto no bem-estar emocional. Tratar a pele e o cabelo é, antes de tudo, cuidar de como você se sente.
 credentials: Biomédico Esteta e Tricologista · CRBM 0015
 ---
 
@@ -23,6 +23,6 @@ Quando alguém procura ajuda por causa de uma queda de cabelo, manchas ou sinais
 
 Cuidar da autoestima não significa buscar um padrão imposto nem "consertar" o que não precisa. Significa **resultados naturais**, que respeitam suas características e te deixam confortável. Por isso o ponto de partida é sempre a conversa: entender o que incomoda, o que é possível e o que faz sentido para você.
 
-Uma abordagem com base científica ajuda a separar expectativa de realidade e a tomar decisões com tranquilidade — sem pressa e sem exageros.
+Uma abordagem com base científica ajuda a separar expectativa de realidade e a tomar decisões com tranquilidade, sem pressa e sem exageros.
 
 <div class="note"><strong>Importante:</strong> se a insatisfação com a aparência está pesando muito no seu dia a dia, vale conversar abertamente numa avaliação. O cuidado começa por ser ouvido.</div>
