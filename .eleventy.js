@@ -18,6 +18,11 @@ module.exports = function (eleventyConfig) {
     (arr || []).filter((p) => p.url !== url).slice(0, 2)
   );
 
+  // Os N primeiros itens de uma lista (ex.: 3 artigos mais recentes na home).
+  // Não usar o filtro nativo "slice" do Nunjucks — lá ele DIVIDE a lista em
+  // grupos de colunas, não recorta os primeiros itens.
+  eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
+
   // Arquivos copiados sem processamento (mantêm o caminho de saída)
   eleventyConfig.addPassthroughCopy({
     "netlify-site/assets": "assets",

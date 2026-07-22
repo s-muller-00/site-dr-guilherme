@@ -14,7 +14,12 @@ GitHub → o Netlify reconstrói o site → o artigo entra no ar em ~1 minuto.
 - Os artigos são arquivos **Markdown** em `netlify-site/artigos/*.md`.
 - O Eleventy transforma cada `.md` na página final `artigos/<nome>.html`, usando o
   template `netlify-site/_includes/article.njk` (que reaproveita o design do site).
-- A home (`netlify-site/index.html`) é copiada como está — não foi alterada.
+- **A home (`netlify-site/index.html`) lista os 3 artigos mais recentes automaticamente**
+  (gerado a partir dos mesmos `.md` — nada precisa ser editado à mão quando um artigo
+  novo é publicado) e tem um botão **"Ver todos os artigos"**.
+- **`netlify-site/artigos/index.html` é a página `/artigos/`** — lista **todos** os
+  artigos, mais recente primeiro. O link "Artigos" do menu (em toda página) aponta
+  para ela.
 - O build gera a pasta `_site/`, que é o que o Netlify publica.
 
 Rodar localmente (opcional, para testar):
@@ -82,8 +87,14 @@ Pronto. A partir daí ele acessa `https://drgcmuller.com.br/admin`.
   `netlify-site/_data/covers.js` (com o ícone/cor da capa).
 - **Mudar o design do artigo:** edite `netlify-site/_includes/article.njk` e/ou
   `netlify-site/artigos/site.css`.
+- **Mudar o design da lista de artigos (`/artigos/`):** edite
+  `netlify-site/artigos/index.html` e as classes `.blog-*` em `site.css`.
 - **Campos do artigo:** definidos em `netlify-site/admin/config.yml` (`fields`) e
   consumidos pelo template. Se adicionar um campo, use-o no `.njk`.
+- **Cuidado com o filtro Nunjucks `slice`:** ele não corta os N primeiros itens
+  de uma lista — no Nunjucks/Jinja, `slice` *divide* a lista em grupos de colunas.
+  Para "os N primeiros", use o filtro customizado `limit` (definido em
+  `.eleventy.js`), como em `collections.artigos | reverse | limit(3)`.
 
 ---
 

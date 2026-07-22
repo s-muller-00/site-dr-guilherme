@@ -91,6 +91,37 @@ header.nav.scrolled{box-shadow:0 6px 24px -16px rgba(57,65,58,.5);border-bottom-
 
 /* corpo do texto */
 .art-body{padding:56px 0 96px}
+
+/* ===== grade de cards da página /artigos/ (listagem de todos os artigos) =====
+   Prefixo "blog-" para não colidir com as classes .art-* acima (usadas na
+   página de UM artigo). Mesma linguagem visual dos cards da home. */
+.blog-list{padding:8px 0 96px}
+.blog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+.blog-card{
+  background:var(--off-white);border-radius:var(--radius);overflow:hidden;
+  box-shadow:var(--shadow-card);border:1px solid var(--line);
+  display:flex;flex-direction:column;transition:transform .3s ease, box-shadow .3s ease;
+}
+.blog-card:hover{transform:translateY(-6px);box-shadow:0 22px 44px -22px rgba(57,65,58,.5)}
+.blog-cover{height:150px;position:relative;display:grid;place-items:center;overflow:hidden;
+  background:linear-gradient(150deg,var(--moss),var(--moss-deep))}
+.blog-cover.c2{background:linear-gradient(150deg,var(--brown),var(--moss-darkest))}
+.blog-cover.c3{background:linear-gradient(150deg,var(--gold),var(--brown))}
+.blog-cover::after{content:"";position:absolute;width:240px;height:240px;right:-90px;top:-110px;
+  background:radial-gradient(circle,rgba(255,255,255,.16),transparent 60%);border-radius:50%}
+.blog-cover svg{width:46px;height:46px;color:rgba(255,255,255,.92);position:relative;z-index:1}
+.blog-card-body{padding:26px 26px 30px;display:flex;flex-direction:column;flex:1}
+.blog-meta{display:flex;align-items:center;gap:10px;font-size:.78rem;font-weight:600;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--moss);margin-bottom:12px}
+.blog-meta .dot{width:4px;height:4px;border-radius:50%;background:var(--sand)}
+.blog-meta .date{color:var(--ink-soft);font-weight:500;letter-spacing:.02em;text-transform:none}
+.blog-card h2{font-size:1.32rem;line-height:1.22;margin-bottom:10px;color:var(--ink)}
+.blog-card p{color:var(--ink-soft);font-size:.98rem;margin-bottom:20px}
+.blog-link{margin-top:auto;display:inline-flex;align-items:center;gap:8px;
+  font-weight:600;font-size:.95rem;color:var(--moss-deep)}
+.blog-link svg{width:17px;height:17px;transition:transform .25s ease}
+.blog-card:hover .blog-link svg{transform:translateX(4px)}
+@media (max-width:920px){ .blog-grid{grid-template-columns:repeat(2,1fr)} }
 .prose{font-size:1.08rem;color:var(--ink)}
 .prose > * + *{margin-top:1.3em}
 .prose p{color:#4b5249}

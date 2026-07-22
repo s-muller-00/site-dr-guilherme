@@ -1,3 +1,6 @@
+---
+templateEngineOverride: njk
+---
 <!DOCTYPE html>
 <!--
   ============================================================================
@@ -333,6 +336,7 @@
   .artigos .eyebrow{justify-content:center}.artigos .eyebrow::before{display:none}
   .artigos .section-head h2{font-size:clamp(2rem,3.6vw,2.8rem);margin:16px 0 14px}
   .artigos .section-head p{color:var(--ink-soft);font-size:1.06rem}
+  .art-more-link{text-align:center;margin-top:44px}
   .art-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
   .art-card{
     background:var(--off-white);border-radius:var(--radius);overflow:hidden;
@@ -497,7 +501,7 @@
           <li><a href="#sobre">Sobre</a></li>
           <li><a href="#servicos">Serviços</a></li>
           <li><a href="#depoimentos">Depoimentos</a></li>
-          <li><a href="#artigos">Artigos</a></li>
+          <li><a href="/artigos/">Artigos</a></li>
           <li><a href="#contato">Contato</a></li>
           <li><a href="#faq">Dúvidas</a></li>
           <li><a href="#localizacao">Localização</a></li>
@@ -678,49 +682,26 @@
       </div>
 
       <div class="art-grid">
-
+        {%- for post in collections.artigos | reverse | limit(3) %}
+        {%- set cover = covers[post.data.category] or covers["Tricologia"] %}
         <article class="art-card reveal">
-          <div class="art-cover c1">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a7 7 0 00-7 7c0 3 2 5 2 8h10c0-3 2-5 2-8a7 7 0 00-7-7z"/><path d="M9 21h6"/></svg>
+          <div class="art-cover {{ cover.cls }}">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">{{ cover.icon | safe }}</svg>
           </div>
           <div class="art-body">
-            <div class="art-meta"><span>Tricologia</span><span class="dot"></span><span class="date">12 mai 2026</span></div>
-            <h3>Queda de cabelo: quando é normal e quando investigar</h3>
-            <p>Perder fios todos os dias faz parte do ciclo capilar. Entenda os sinais que indicam quando é hora de procurar uma avaliação.</p>
-            <a class="art-link" href="artigos/queda-de-cabelo.html">Ler artigo
+            <div class="art-meta"><span>{{ post.data.category }}</span><span class="dot"></span><span class="date">{{ post.data.date | dataPt }}</span></div>
+            <h3>{{ post.data.title }}</h3>
+            <p>{{ post.data.description }}</p>
+            <a class="art-link" href="{{ post.url }}">Ler artigo
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
             </a>
           </div>
         </article>
+        {%- endfor %}
+      </div>
 
-        <article class="art-card reveal">
-          <div class="art-cover c2">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 000 18M3 12h18"/></svg>
-          </div>
-          <div class="art-body">
-            <div class="art-meta"><span>Estética facial</span><span class="dot"></span><span class="date">28 abr 2026</span></div>
-            <h3>Skincare com base científica: o que realmente funciona</h3>
-            <p>Entre tantas promessas, separamos o que tem evidência do que é só tendência. Uma rotina simples e eficaz para a sua pele.</p>
-            <a class="art-link" href="artigos/skincare-com-base-cientifica.html">Ler artigo
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
-            </a>
-          </div>
-        </article>
-
-        <article class="art-card reveal">
-          <div class="art-cover c3">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.5-9-9a5 5 0 019-3 5 5 0 019 3c-2 4.5-9 9-9 9z"/></svg>
-          </div>
-          <div class="art-body">
-            <div class="art-meta"><span>Autoestima</span><span class="dot"></span><span class="date">9 abr 2026</span></div>
-            <h3>Autoestima é questão de saúde — e não de vaidade</h3>
-            <p>Cuidar da aparência tem impacto direto no bem-estar emocional. Por que tratar a pele e o cabelo é também cuidar de você.</p>
-            <a class="art-link" href="artigos/autoestima-questao-de-saude.html">Ler artigo
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
-            </a>
-          </div>
-        </article>
-
+      <div class="art-more-link reveal">
+        <a class="btn btn-ghost" href="/artigos/">Ver todos os artigos</a>
       </div>
     </div>
   </section>
@@ -832,7 +813,7 @@
           <a href="#sobre">Sobre</a>
           <a href="#servicos">Serviços</a>
           <a href="#depoimentos">Depoimentos</a>
-          <a href="#artigos">Artigos</a>
+          <a href="/artigos/">Artigos</a>
           <a href="#localizacao">Localização</a>
         </div>
         <div class="foot-col">
