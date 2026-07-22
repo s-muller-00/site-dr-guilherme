@@ -95,7 +95,7 @@ header.nav.scrolled{box-shadow:0 6px 24px -16px rgba(57,65,58,.5);border-bottom-
 /* ===== grade de cards da página /artigos/ (listagem de todos os artigos) =====
    Prefixo "blog-" para não colidir com as classes .art-* acima (usadas na
    página de UM artigo). Mesma linguagem visual dos cards da home. */
-.blog-list{padding:8px 0 96px}
+.blog-list{padding:64px 0 96px}
 .blog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
 .blog-card{
   background:var(--off-white);border-radius:var(--radius);overflow:hidden;
