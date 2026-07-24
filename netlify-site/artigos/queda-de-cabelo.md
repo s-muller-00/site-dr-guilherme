@@ -1,34 +1,41 @@
 ---
-title: "Queda de cabelo: quando é normal e quando investigar"
-date: "2026-05-12"
-category: "Tricologia"
-author: "Dr. Guilherme Cerutti Müller"
-description: "Perder fios todos os dias faz parte do ciclo capilar. O que muda é a quantidade, o padrão e o tempo — e é aí que a avaliação faz diferença."
+title: 'Queda de cabelo: quando é normal e quando investigar'
+date: 2026-05-12
+category: Tricologia
+author: Dr. Guilherme Cerutti Müller
+description: 'Perder entre 50 e 100 fios por dia é fisiológico. O alerta não está na queda em si, mas na mudança do padrão: falhas que surgem, afinamento progressivo ou queda que persiste além de 2 a 3 meses. Neste artigo, exploro quando a queda capilar merece investigação, o que uma avaliação tricológica analisa (tricoscopia, exames de ferritina, tireoide e vitaminas) e como diferenciar condições como eflúvio telógeno, alopecia androgenética e alopecia areata.'
 ---
 
-Quase todo mundo já se assustou ao ver fios no travesseiro, no ralo do chuveiro ou na escova. A boa notícia é que **perder cabelo faz parte do funcionamento normal do couro cabeludo**. O fio nasce, cresce por anos, descansa e cai para dar lugar a um novo. Em média, é esperado perder entre 50 e 100 fios por dia.
+Perder fios de cabelo faz parte do ciclo fisiológico de renovação do folículo. Cada fio nasce (anágena), passa por uma transição (catágena) e entra em repouso programado (telógeno), até cair para dar lugar a um novo. Em condições normais, a perda diária situa-se entre 50 e 100 fios.
 
-O ponto de atenção não é a queda em si, mas **mudanças no padrão**: uma queda que aumenta de repente, falhas que surgem, o couro cabeludo aparecendo mais ou o cabelo afinando ao longo dos meses.
+O que realmente importa não é a queda em si, mas a mudança no padrão — e é aí que entra o olhar de quem entende do assunto.
 
-## Quando provavelmente é normal
+### Quando provavelmente é normal
 
-- Você perde uma quantidade parecida de fios há anos, sem clareiras novas.
-- A queda aumentou por algumas semanas depois de um evento pontual (febre, cirurgia, dieta restritiva, parto) e tende a se estabilizar.
-- A densidade geral do cabelo continua a mesma quando você compara fotos.
+- A quantidade de fios perdidos se mantém estável há meses ou anos
+- Houve um evento pontual (febre alta, cirurgia, pós-parto, dieta restritiva) e a queda aumentou 2 a 3 meses depois — isso se chama eflúvio telógeno e tende a se resolver sozinho
+- A densidade do cabelo se mantém a mesma em fotos comparativas
 
-## Quando vale investigar
+### Quando vale investigar com um especialista
 
-- A queda intensa passa de 2 a 3 meses sem melhorar.
-- Surgem **falhas, entradas ou afinamento** em regiões específicas.
-- Há coceira, descamação, vermelhidão ou dor no couro cabeludo.
-- Existe histórico de queda na família e você percebe o cabelo ralear progressivamente.
+- A queda intensa persiste por mais de 2 a 3 meses sem melhora
+- Surgem falhas delimitadas, manchas circulares ou afinamento progressivo em regiões específicas
+- Há coceira, descamação, vermelhidão ou dor no couro cabeludo
+- Existe histórico familiar e você percebe o cabelo ralear com o tempo
 
-> O cabelo é um termômetro do corpo. Muitas vezes a queda é o primeiro sinal de algo que vale a pena olhar com calma.
+O folículo piloso funciona como um sensor biológico. Muitas vezes a queda é o primeiro sinal de algo que merece atenção — e identificá-lo precocemente faz toda a diferença.
 
-## O que uma avaliação capilar investiga
+### O que uma avaliação capilar investiga
 
-Numa avaliação tricológica, o objetivo é entender a **causa** antes de propor qualquer tratamento. Isso costuma envolver a história clínica (alimentação, rotina, estresse, medicamentos, histórico familiar), o exame do couro cabeludo e, quando necessário, exames laboratoriais para checar fatores como ferro, tireoide e vitaminas.
+Em uma consulta tricológica, o objetivo é entender a causa antes de pensar em tratamento. Isso passa por três etapas:
 
-A partir daí é possível diferenciar situações muito distintas — como uma queda temporária por estresse de um padrão genético — que pedem condutas completamente diferentes.
+- Anamnese detalhada: alimentação, rotina, estresse, medicamentos, histórico familiar
+- Tricoscopia: exame que amplia a visualização do couro cabeludo e identifica miniaturização, inflamação e alterações no óstio folicular
+- Exames laboratoriais dirigidos: ferritina (alvo > 30–70 ng/mL), TSH, T4 livre, vitamina D, B12, zinco, além de marcadores inflamatórios (VHS, PCR) e autoimunes (FAN) quando indicado
 
-<div class="note"><strong>Importante:</strong> este conteúdo é educativo e não substitui uma avaliação individual. Cada caso é único, e o tratamento ideal depende de um diagnóstico feito por um profissional.</div>
+Com esses dados, é possível distinguir situações que pedem condutas completamente diferentes — desde uma queda temporária por estresse (eflúvio telógeno) até um padrão genético (alopecia androgenética) ou uma quebra de imunoprivilégio (alopecia areata), tema que explorei em detalhes em outro artigo aqui do blog.
+
+
+
+
+> Importante: este conteúdo tem caráter educativo e não substitui uma avaliação individual. Cada caso é único, e o tratamento adequado depende de diagnóstico profissional.
