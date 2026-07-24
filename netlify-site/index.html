@@ -901,5 +901,17 @@ templateEngineOverride: njk
   // Ano automático no rodapé
   document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+<script>
+  document.querySelectorAll('[data-wa]').forEach(function(el){
+    el.addEventListener('click', function(){
+      if (typeof gtag === 'function') {
+        gtag('event', 'whatsapp_click', {
+          event_category: 'contato',
+          event_label: window.location.pathname
+        });
+      }
+    });
+  });
+</script>
 </body>
 </html>
