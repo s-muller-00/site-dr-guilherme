@@ -1,6 +1,6 @@
 ---
 title: 'O Escudo Invisível: Entendendo o Imunoprivilégio que Protege seu Cabelo'
-date: 2026-08-24
+date: 2026-07-24
 category: Tricologia
 author: Dr. Guilherme Cerutti Müller
 description: O folículo capilar possui um escudo imunológico que o protege do ataque do próprio corpo. Quando esse mecanismo falha, surgem condições como a Alopecia Areata. Neste artigo, exploro como o imunoprivilégio folicular funciona, o que o quebra (estresse, inflamação, seborreia) e como a laserterapia pode ajudar a restaurá-lo.
