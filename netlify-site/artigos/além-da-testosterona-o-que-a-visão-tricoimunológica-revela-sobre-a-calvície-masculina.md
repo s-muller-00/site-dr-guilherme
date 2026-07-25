@@ -50,3 +50,11 @@ O novo paradigma exige multiterapia combinada. Para salvar o cabelo, o tricologi
 <div style=" background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-left: 4px solid #0056b3; padding: 20px 24px; margin: 30px 0; border-radius: 0 12px 12px 0; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); "> <p style=" margin: 0; font-size: 1.1rem; line-height: 1.6; color: #2c3e50; font-weight: 500; font-style: italic; "> "Tratar o cabelo sem entender e modular o terreno imunológico e metabólico por trás dele é tentar apagar um incêndio de olhos fechados." </p> </div>
 
 ##### _Se você sofre com perda de densidade, agende uma avaliação e descubra uma abordagem que enxerga além do fio._
+
+### Referências
+
+**1. Bertolini, M. et al. (2020).** _Hair follicle immune privilege and its collapse in alopecia areata. Experimental Dermatology._
+
+**2. Xiao, Y. et al. (2025).** _Immune and Non-immune Interactions in the Pathogenesis of Androgenetic Alopecia. Clinical Reviews in Allergy & Immunology._
+
+**3. Umar, S. et al. (2026).** _Perifollicular Inflammation and Fibrosis in Androgenetic Alopecia: Implications for Diagnosis and Treatment. Clinical, Cosmetic and Investigational Dermatology._
