@@ -42,7 +42,7 @@ A regra de ouro: introduzir um ativo por vez, observar a resposta da pele por 2 
 
 Os mesmos princípios de barreira cutânea se aplicam ao couro cabeludo — um ecossistema frequentemente negligenciado, mas igualmente dependente do equilíbrio do microbioma e do manto hidrolipídico. Se você nota descamação, coceira ou oleosidade excessiva no couro cabeludo, vale o mesmo raciocínio: identificar a causa antes de tratar.
 
-> Importante: tipos de pele, condições de barreira e objetivos variam. A personalização da rotina deve ser feita em avaliação clínica, especialmente antes de incluir ativos mais potentes. Identificar o que sua pele realmente precisa começa com uma avaliação direcionada.
+<div class="note"><strong>Importante:</strong> tipos de pele, condições de barreira e objetivos variam. A personalização da rotina deve ser feita em avaliação clínica, especialmente antes de incluir ativos mais potentes. Identificar o que sua pele realmente precisa começa com uma avaliação direcionada.</div>
 
 #### Referências
 
