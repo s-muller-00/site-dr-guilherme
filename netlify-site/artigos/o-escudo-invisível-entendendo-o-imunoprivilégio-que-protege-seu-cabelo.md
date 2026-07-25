@@ -18,7 +18,7 @@ O imunoprivilégio folicular é um microambiente de tolerância imunológica reg
 
 Essa regulação é vital para que a fase anágena (crescimento ativo) ocorra sem interrupções. O folículo funciona como um mini-órgão que produz substâncias imunossupressoras, e o imunoprivilégio deve ser entendido como um processo dinâmico ao longo do ciclo capilar (Paus et al., 2003). Sem esse escudo, o folículo seria alvo constante de processos inflamatórios que comprometeriam a densidade capilar. Como especialista, reforço que a preservação desse microambiente é a base de qualquer tratamento preventivo:
 
-> "É fundamental que o folículo mantenha seu equilíbrio hidrolipídico e sua regulação imunológica local, garantindo o ambiente ideal para o crescimento e prevenindo o enfraquecimento da haste."
+<div class="note"><strong> É fundamental que o folículo mantenha seu equilíbrio hidrolipídico e sua regulação imunológica local, garantindo o ambiente ideal para o crescimento e prevenindo o enfraquecimento da haste.</strong> </div>
 
 ### 3. Quando o Escudo Cai: A Revolta da Alopecia Areata
 
@@ -26,7 +26,7 @@ Quando ocorre uma falha nesse sistema de tolerância, o "santuário" é invadido
 
 É uma condição que exige vigilância: estima-se que em cerca de 20% dos pacientes a perda pode evoluir para a forma total (acometendo todo o couro cabeludo) e, em aproximadamente 1% dos casos, para a forma universal (acometendo todo o corpo), conforme dados da literatura.
 
-> "Uma anormalidade no sistema imunológico leva o corpo a atacar os folículos pilosos, causando a perda de cabelo em manchas."
+<div class="note"><strong>Uma anormalidade no sistema imunológico leva o corpo a atacar os folículos pilosos, causando a perda de cabelo em manchas.</strong> </div>
 
 ### 4. O Gatilho do Caos: O Papel do Estresse e do Eixo Hormonal
 
@@ -50,7 +50,7 @@ A fotobiomodulação atua em múltiplas frentes: exerce ação anti-inflamatóri
 
 Entender o cabelo como um reflexo do equilíbrio imo: O Cuidado Além da Estéticaunológico interno muda nossa percepção de cuidado. O folículo piloso é um sistema complexo e dinâmico da biologia humana (Paus & Cotsarelis, 1999), e a beleza capilar não é um fim em si mesma, mas um subproduto da saúde biológica e da preservação do microambiente folicular. Manter a higiene adequada, o pH equilibrado (4,5–5,5), o microbioma estável e o organismo em homeostase imunológica é o que garante a longevidade dos seus fios.
 
-Como você tem cuidado do "ambiente" onde seu cabelo nasce, para além da haste visível?
+<div class="note"><strong> Como você tem cuidado do "ambiente" onde seu cabelo nasce, para além da haste visível?/strong> </div>
 
 ### Referências
 
