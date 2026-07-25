@@ -33,9 +33,6 @@ Em uma consulta tricológica, o objetivo é entender a causa antes de pensar em 
 - Tricoscopia: exame que amplia a visualização do couro cabeludo e identifica miniaturização, inflamação e alterações no óstio folicular
 - Exames laboratoriais dirigidos: ferritina (alvo > 30–70 ng/mL), TSH, T4 livre, vitamina D, B12, zinco, além de marcadores inflamatórios (VHS, PCR) e autoimunes (FAN) quando indicado
 
-Com esses dados, é possível distinguir situações que pedem condutas completamente diferentes — desde uma queda temporária por estresse (eflúvio telógeno) até um padrão genético (alopecia androgenética) ou uma quebra de imunoprivilégio (alopecia areata), tema que explorei em detalhes em outro artigo aqui do blog.
+Com esses dados, é possível distinguir situações que pedem condutas completamente diferentes — desde uma queda temporária por estresse (eflúvio telógeno) até um padrão genético (alopecia androgenética) ou uma quebra de imunoprivilégio (alopecia areata), tema que explorarei em outro artigo aqui do blog.
 
-
-
-
-> Importante: este conteúdo tem caráter educativo e não substitui uma avaliação individual. Cada caso é único, e o tratamento adequado depende de diagnóstico profissional.
+<div class="note"><strong>Importante:</strong> este conteúdo tem caráter educativo e não substitui uma avaliação individual. Cada caso é único, e o tratamento adequado depende de diagnóstico profissional..</div>
