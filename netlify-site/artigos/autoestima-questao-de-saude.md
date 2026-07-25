@@ -23,7 +23,4 @@ Cuidar da autoestima não significa buscar um padrão imposto nem sair fazendo p
 
 O ponto de partida é sempre a conversa: ouvir, examinar, explicar. A partir daí, qualquer conduta é uma escolha compartilhada.
 
-
-
-
-> Importante: se a insatisfação com a aparência está pesando no seu dia a dia, vale conversar abertamente em uma avaliação. O cuidado começa por ser ouvido.
+<div class="note"><strong>Importante:</strong> se a insatisfação com a aparência está pesando muito no seu dia a dia, vale conversar abertamente numa avaliação. O cuidado começa por ser ouvido.</div>
