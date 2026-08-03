@@ -50,7 +50,7 @@ A fotobiomodulação atua em múltiplas frentes: exerce ação anti-inflamatóri
 
 Entender o cabelo como um reflexo do equilíbrio imo: O Cuidado Além da Estéticaunológico interno muda nossa percepção de cuidado. O folículo piloso é um sistema complexo e dinâmico da biologia humana (Paus & Cotsarelis, 1999), e a beleza capilar não é um fim em si mesma, mas um subproduto da saúde biológica e da preservação do microambiente folicular. Manter a higiene adequada, o pH equilibrado (4,5–5,5), o microbioma estável e o organismo em homeostase imunológica é o que garante a longevidade dos seus fios.
 
-<div class="note"><strong> Como você tem cuidado do "ambiente" onde seu cabelo nasce, para além da haste visível?/strong> </div>
+<div class="note"><strong> Como você tem cuidado do "ambiente" onde seu cabelo nasce, para além da haste visível?</strong> </div>
 
 ### Referências
 
